@@ -1,0 +1,49 @@
+body{
+    background: #E5E5E5;
+}
+
+.navbar{
+    background: #562EFF;
+}
+main{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+/* ---------------------------------
+            Footer style
+----------------------------------*/
+
+footer{
+    height: 200px;
+    width: 98vw;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color: #0c0a1f;
+
+}
+
+.footer-design{
+    
+    text-align: center;
+}
+.footer-design p{
+    color: #FFFFFF;
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 10px;
+    font-size: 14px;
+}
+.social-icons{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-column-gap:20px ;
+    
+}
+.fab, .fa-youtube-square{
+    color: #FFFFFF;
+    font-size: 1em;
+}
+
